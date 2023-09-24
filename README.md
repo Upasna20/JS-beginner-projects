@@ -1,2 +1,4 @@
 # JS-beginner-projects
-These are a few of the beginner projects I've created to hone on my JS skills. This is Vanilla JS. 
+These are some beginner projects I've created to hone my JS skills. This is Vanilla JS. 
+😎😎 You can definitely check them out and reminisce about your beginner days 😁.
+***Toodles!!***
